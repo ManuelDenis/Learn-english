@@ -1,0 +1,14 @@
+button {
+    background: #f6061a;
+    color: aliceblue;
+    border-radius: 50px;
+    padding: 10px 15px 10px 15px;
+    border-style: none;
+}
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 1px;
+  font-size: 20px;
+}

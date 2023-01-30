@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="container mt-3">
+          <div class="row sticky">
+          <div class="btn-group" role="group" aria-label="Basic example">
+              <button class="shadow-lg sticky"><a href="{% url 'try' %}" style="text-decoration-line: none; color: lightcyan"> Try </a></button>
+          </div>
+      </div>
+
+      <div class="row justify-content-lg-center">
+
+            {% for exp in object_list %}
+            <div class="col-lg-7 my-3 p-5">
+                <h4 id="{{ exp.pk }}" style="color: rgba(2,100,36,0.97)">{{ exp.rom|capfirst }}</h4>
+                <h5 id="{{ exp }}" style="visibility: initial; color: #700202; position: relative; left: 10px">{{ exp.eng|capfirst }}</h5>
+            </div>
+<script>
+$(document).ready(function(){
+    $("#{{ exp }}").hide();
+
+  $("#{{ exp.pk }}").click(function(){
+    $("#{{ exp }}").toggle();
+  });
+});
+</script>
+            {% endfor %}
+
+      </div>
+
+      </div>
+
+    </div>
+
+
+
+{% endblock %}

@@ -6,4 +6,5 @@ class Expression(models.Model):
     eng = models.CharField(max_length=500)
 
     def __str__(self):
-        return self.rom
+        s = ''.join(char for char in self.rom if char.isalnum())
+        return s
