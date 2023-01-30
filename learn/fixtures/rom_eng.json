@@ -1,0 +1,1765 @@
+[{
+	"model": "learn.Expression",
+	"pk": 1,
+	"fields": {
+		"rom": "Ce faci astazi?",
+		"eng": "What are you doing today?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 2,
+	"fields": {
+		"rom": "Vreau sa ies in oras.",
+		"eng": "I want to go out in town."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 3,
+	"fields": {
+		"rom": "Am terminat munca.",
+		"eng": "I finished work."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 4,
+	"fields": {
+		"rom": "Vreau sa vorbesc cu tine.",
+		"eng": "I want to talk to you."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 5,
+	"fields": {
+		"rom": "Ma simt obosit.",
+		"eng": "I feel tired."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 6,
+	"fields": {
+		"rom": "Vreau sa merg la plaja.",
+		"eng": "I want to go to the beach."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 7,
+	"fields": {
+		"rom": "Ce ai facut azi-noapte?",
+		"eng": "What did you do last night?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 8,
+	"fields": {
+		"rom": "Vreau sa vad un film.",
+		"eng": "I want to watch a movie."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 9,
+	"fields": {
+		"rom": "Ce parere ai despre asta?",
+		"eng": "What is your opinion on this?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 10,
+	"fields": {
+		"rom": "Sunt foarte fericit.",
+		"eng": "I am very happy."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 11,
+	"fields": {
+		"rom": "Trebuie sa merg la serviciu.",
+		"eng": "I have to go to work."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 12,
+	"fields": {
+		"rom": "Vreau sa iau o pauza.",
+		"eng": "I want to take a break."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 13,
+	"fields": {
+		"rom": "Ce planuri ai pentru weekend?",
+		"eng": "What are your plans for the weekend?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 14,
+	"fields": {
+		"rom": "Ma simt bine.",
+		"eng": "I feel good."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 15,
+	"fields": {
+		"rom": "Vreau sa joc un joc video.",
+		"eng": "I want to play a video game."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 16,
+	"fields": {
+		"rom": "Ce te face fericit?",
+		"eng": "What makes you happy?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 17,
+	"fields": {
+		"rom": "Trebuie sa termin acest proiect.",
+		"eng": "I have to finish this project."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 18,
+	"fields": {
+		"rom": "Vreau sa merg la o petrecere.",
+		"eng": "I want to go to a party."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 19,
+	"fields": {
+		"rom": "Sunt trist.",
+		"eng": "I am sad."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 20,
+	"fields": {
+		"rom": "Vreau sa citesc o carte.",
+		"eng": "I want to read a book."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 21,
+	"fields": {
+		"rom": "Ce ai face daca ai avea o zi libera?",
+		"eng": "What would you do if you had a day off?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 22,
+	"fields": {
+		"rom": "Ma simt stresat.",
+		"eng": "I feel stressed."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 23,
+	"fields": {
+		"rom": "Vreau sa merg la un concert.",
+		"eng": "I want to go to a concert."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 24,
+	"fields": {
+		"rom": "Ce te face sa te simti mai bine?",
+		"eng": "What makes you feel better?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 25,
+	"fields": {
+		"rom": "Trebuie sa trimit acest email.",
+		"eng": "I have to send this email."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 26,
+	"fields": {
+		"rom": "Vreau sa merg la un muzeu.",
+		"eng": "I want to go to a museum."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 27,
+	"fields": {
+		"rom": "Sunt fericit sa te vad.",
+		"eng": "I am happy to see you."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 28,
+	"fields": {
+		"rom": "Vreau sa iau o cafea.",
+		"eng": "I want to have a coffee."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 29,
+	"fields": {
+		"rom": "Ce te face sa te simti rau?",
+		"eng": "What makes you feel bad?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 30,
+	"fields": {
+		"rom": "Ma simt confuz.",
+		"eng": "I feel confused."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 31,
+	"fields": {
+		"rom": "Vreau sa merg la un parc.",
+		"eng": "I want to go to a park."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 32,
+	"fields": {
+		"rom": "Ce te face sa zambesti?",
+		"eng": "What makes you smile?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 33,
+	"fields": {
+		"rom": "Trebuie sa termin acest raport.",
+		"eng": "I have to finish this report."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 34,
+	"fields": {
+		"rom": "Vreau sa merg la un restaurant.",
+		"eng": "I want to go to a restaurant."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 35,
+	"fields": {
+		"rom": "Sunt fericit sa fiu aici.",
+		"eng": "I am happy to be here."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 36,
+	"fields": {
+		"rom": "Vreau sa iau o plimbare.",
+		"eng": "I want to take a walk."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 37,
+	"fields": {
+		"rom": "Ce te face sa te gandesti la viitor?",
+		"eng": "What makes you think about the future?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 38,
+	"fields": {
+		"rom": "Ma simt bine cu tine.",
+		"eng": "I feel good with you."
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 39,
+	"fields": {
+		"rom": "Ma uit la un film",
+		"eng": "I am watching a movie"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 40,
+	"fields": {
+		"rom": "Jucam tenis",
+		"eng": "We are playing tennis"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 41,
+	"fields": {
+		"rom": "Merg la plaja",
+		"eng": "I am going to the beach"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 42,
+	"fields": {
+		"rom": "Facem o excursie",
+		"eng": "We are going on a trip"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 43,
+	"fields": {
+		"rom": "Imi petrec timpul cu prietenii",
+		"eng": "I am spending time with friends"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 44,
+	"fields": {
+		"rom": "Ma joc video-jocuri",
+		"eng": "I am playing video games"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 45,
+	"fields": {
+		"rom": "Imi fac temele",
+		"eng": "I am doing my homework"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 46,
+	"fields": {
+		"rom": "Fac cumparaturi",
+		"eng": "I am shopping"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 47,
+	"fields": {
+		"rom": "Imi place sa gatesc",
+		"eng": "I love cooking"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 48,
+	"fields": {
+		"rom": "Am o zi obositoare la munca",
+		"eng": "I had a tiring day at work"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 49,
+	"fields": {
+		"rom": "Ma plimb in parc",
+		"eng": "I am walking in the park"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 50,
+	"fields": {
+		"rom": "Imi petrec weekend-ul cu familia",
+		"eng": "I am spending the weekend with family"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 51,
+	"fields": {
+		"rom": "Ma uit la televizor",
+		"eng": "I`m watching TV"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 52,
+	"fields": {
+		"rom": "Jucam fotbal",
+		"eng": "We are playing soccer"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 53,
+	"fields": {
+		"rom": "Merg la teatru",
+		"eng": "I am going to the theater"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 54,
+	"fields": {
+		"rom": "Fac yoga",
+		"eng": "I am doing yoga"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 55,
+	"fields": {
+		"rom": "Imi petrec timpul cu cainii",
+		"eng": "I am spending time with dogs"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 56,
+	"fields": {
+		"rom": "Ma joc cu copiii",
+		"eng": "I am playing with children"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 57,
+	"fields": {
+		"rom": "Imi fac planuri pentru vacanta",
+		"eng": "I am making plans for vacation"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 58,
+	"fields": {
+		"rom": "Fac curatenie in casa",
+		"eng": "I`m cleaning the house"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 59,
+	"fields": {
+		"rom": "Imi place sa creez bijuterii",
+		"eng": "I love making jewelry"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 60,
+	"fields": {
+		"rom": "Am un interviu de angajare astazi",
+		"eng": "I have a job interview today"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 61,
+	"fields": {
+		"rom": "Ma plimb prin oras",
+		"eng": "I`m walking around the city"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 62,
+	"fields": {
+		"rom": "Imi petrec timpul cu iubitul/iubita",
+		"eng": "I am spending time with my boyfriend/girlfriend"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 63,
+	"fields": {
+		"rom": "Jucam carti",
+		"eng": "We are playing cards"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 64,
+	"fields": {
+		"rom": "Merg la mare",
+		"eng": "I am going to the sea"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 65,
+	"fields": {
+		"rom": "Fac sport",
+		"eng": "I am doing sports"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 66,
+	"fields": {
+		"rom": "Imi petrec timpul cu prietenii la un bar",
+		"eng": "I am spending time with friends at a bar"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 67,
+	"fields": {
+		"rom": "Ma joc cu telefonul mobil",
+		"eng": "I am playing with my cell phone"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 68,
+	"fields": {
+		"rom": "Imi fac un masaj",
+		"eng": "I am getting a massage"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 69,
+	"fields": {
+		"rom": "Fac un gratar",
+		"eng": "I am making a barbecue"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 70,
+	"fields": {
+		"rom": "Imi place sa citesc",
+		"eng": "I love reading"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 71,
+	"fields": {
+		"rom": "Am o zi lunga la munca",
+		"eng": "I have a long day at work"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 72,
+	"fields": {
+		"rom": "Ma plimb prin padure",
+		"eng": "I am walking through the forest"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 73,
+	"fields": {
+		"rom": "Imi petrec timpul cu nepotii",
+		"eng": "I am spending time with my grandchildren"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 74,
+	"fields": {
+		"rom": "Jucam baschet",
+		"eng": "We are playing basketball"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 75,
+	"fields": {
+		"rom": "Merg la opera",
+		"eng": "I am going to the opera"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 76,
+	"fields": {
+		"rom": "Fac un curs de gatit",
+		"eng": "I am taking a cooking class"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 77,
+	"fields": {
+		"rom": "Imi petrec timpul cu animalele",
+		"eng": "I am spending time with animals"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 78,
+	"fields": {
+		"rom": "Ma joc cu niste jucarii",
+		"eng": "I am playing with some toys"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 79,
+	"fields": {
+		"rom": "Imi fac o salata",
+		"eng": "I am making a salad"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 80,
+	"fields": {
+		"rom": "Fac voluntariat",
+		"eng": "I am volunteering"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 81,
+	"fields": {
+		"rom": "Imi place sa calatoresc",
+		"eng": "I love traveling"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 82,
+	"fields": {
+		"rom": "Am o intalnire de afaceri",
+		"eng": "I have a business meeting"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 83,
+	"fields": {
+		"rom": "Ma plimb pe malul lacului",
+		"eng": "I am walking by the lake"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 84,
+	"fields": {
+		"rom": "Suntem la picnic",
+		"eng": "We are at the picnic"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 85,
+	"fields": {
+		"rom": "Vreau sa merg la plimbare cu bicicleta",
+		"eng": "I want to go for a bike ride"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 86,
+	"fields": {
+		"rom": "Vremea este frumoasa azi",
+		"eng": "The weather is nice today"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 87,
+	"fields": {
+		"rom": "Citesc o carte interesanta",
+		"eng": "I am reading an interesting book"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 88,
+	"fields": {
+		"rom": "Ma duc sa fac curat in casa",
+		"eng": "I am going to clean the house"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 89,
+	"fields": {
+		"rom": "Jucam un joc video",
+		"eng": "We are playing a video game"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 90,
+	"fields": {
+		"rom": "Imi petrec timpul liber cu prietenii",
+		"eng": "I spend my free time with friends"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 91,
+	"fields": {
+		"rom": "Suntem o familie unita",
+		"eng": "We are a united family"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 92,
+	"fields": {
+		"rom": "Gatim cina impreuna",
+		"eng": "We`re cooking dinner together"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 93,
+	"fields": {
+		"rom": "Muncesc la birou",
+		"eng": "I work at the office"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 94,
+	"fields": {
+		"rom": "Ma simt bine astazi",
+		"eng": "I feel good today"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 95,
+	"fields": {
+		"rom": "Ma duc sa joc tenis",
+		"eng": "I am going to play tennis"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 96,
+	"fields": {
+		"rom": "Vreau sa fac o plimbare cu rolele",
+		"eng": "I want to go for a rollerblade ride"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 97,
+	"fields": {
+		"rom": "Vremea este ploioasa astazi",
+		"eng": "The weather is rainy today"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 98,
+	"fields": {
+		"rom": "Citesc un roman",
+		"eng": "I am reading a novel"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 99,
+	"fields": {
+		"rom": "Ma duc sa fac curat in gradina",
+		"eng": "I am going to clean the garden"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 100,
+	"fields": {
+		"rom": "Jucam o partida de sah",
+		"eng": "We are playing a game of chess"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 101,
+	"fields": {
+		"rom": "Imi petrec timpul liber cu familia",
+		"eng": "I spend my free time with family"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 102,
+	"fields": {
+		"rom": "Gatim o prajitura",
+		"eng": "We are baking a cake"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 103,
+	"fields": {
+		"rom": "Muncesc acasa",
+		"eng": "I work from home"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 104,
+	"fields": {
+		"rom": "Ma simt trist astazi",
+		"eng": "I feel sad today"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 105,
+	"fields": {
+		"rom": "Ma duc la pescuit",
+		"eng": "I am going fishing"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 106,
+	"fields": {
+		"rom": "Vreau sa merg la o plimbare cu patinele",
+		"eng": "I want to go for a skate ride"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 107,
+	"fields": {
+		"rom": "Vremea este calda astazi",
+		"eng": "The weather is warm today"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 108,
+	"fields": {
+		"rom": "Citesc o biografie",
+		"eng": "I am reading a biography"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 109,
+	"fields": {
+		"rom": "Ma duc sa fac curat in baie",
+		"eng": "I am going to clean the bathroom"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 110,
+	"fields": {
+		"rom": "Jucam un joc de societate",
+		"eng": "We are playing a board game"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 111,
+	"fields": {
+		"rom": "Imi petrec timpul liber la cinema",
+		"eng": "I spend my free time at the cinema"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 112,
+	"fields": {
+		"rom": "Gatim o pizza",
+		"eng": "We are cooking pizza"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 113,
+	"fields": {
+		"rom": "Muncesc la proiect",
+		"eng": "I work on a project"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 114,
+	"fields": {
+		"rom": "Ma simt energic astazi",
+		"eng": "I feel energetic today"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 115,
+	"fields": {
+		"rom": "Ma duc sa joc baschet",
+		"eng": "I am going to play basketball"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 116,
+	"fields": {
+		"rom": "Vreau sa merg la plimbare cu cainii",
+		"eng": "I want to go for a walk with the dogs"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 117,
+	"fields": {
+		"rom": "Vremea este rece astazi",
+		"eng": "The weather is cold today"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 118,
+	"fields": {
+		"rom": "Citesc o poezie",
+		"eng": "I am reading a poem"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 119,
+	"fields": {
+		"rom": "Ma duc sa fac curat in camera",
+		"eng": "I am going to clean the room"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 120,
+	"fields": {
+		"rom": "Jucam un joc de strategie",
+		"eng": "We are playing a strategy game"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 121,
+	"fields": {
+		"rom": "Imi petrec timpul liber la parc",
+		"eng": "I spend my free time at the park"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 122,
+	"fields": {
+		"rom": "Gatim o ciorba",
+		"eng": "We are cooking soup"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 123,
+	"fields": {
+		"rom": "Muncesc la teren",
+		"eng": "I work on site"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 124,
+	"fields": {
+		"rom": "Ma simt relaxat astazi",
+		"eng": "I feel relaxed today"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 125,
+	"fields": {
+		"rom": "Ma duc sa joc fotbal",
+		"eng": "I am going to play soccer"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 126,
+	"fields": {
+		"rom": "Merg la piata sa cumpar legume",
+		"eng": "I`m going to the market to buy vegetables"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 127,
+	"fields": {
+		"rom": "Vorbeste cu prietenul tau",
+		"eng": "Talk to your friend"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 128,
+	"fields": {
+		"rom": "Imi place sa citesc carti",
+		"eng": "I like to read books"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 129,
+	"fields": {
+		"rom": "Este o zi frumoasa afara",
+		"eng": "It`s a beautiful day outside"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 130,
+	"fields": {
+		"rom": "Jucam joc de societate",
+		"eng": "We`re playing a board game"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 131,
+	"fields": {
+		"rom": "Merg la magazin sa cumpar paine",
+		"eng": "I`m going to the store to buy bread"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 132,
+	"fields": {
+		"rom": "Imi petrec timpul cu familia mea",
+		"eng": "I`m spending time with my family"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 133,
+	"fields": {
+		"rom": "Fac un picnic cu prietenii",
+		"eng": "I`m having a picnic with friends"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 134,
+	"fields": {
+		"rom": "Curgem biciclete prin parc",
+		"eng": "We`re riding bikes in the park"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 135,
+	"fields": {
+		"rom": "Este un vant puternic afara",
+		"eng": "It`s a strong wind outside"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 136,
+	"fields": {
+		"rom": "Imi place sa pictez",
+		"eng": "I like to paint"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 137,
+	"fields": {
+		"rom": "Merg la munca",
+		"eng": "I`m going to work"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 138,
+	"fields": {
+		"rom": "Discutam despre planurile pentru weekend",
+		"eng": "We`re talking about plans for the weekend"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 139,
+	"fields": {
+		"rom": "Imi place sa fac sport",
+		"eng": "I like to do sports"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 140,
+	"fields": {
+		"rom": "Fac o plimbare prin parc",
+		"eng": "I`m taking a walk in the park"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 141,
+	"fields": {
+		"rom": "Este o zi ploioasa afara",
+		"eng": "It`s a rainy day outside"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 142,
+	"fields": {
+		"rom": "Citesc o revista",
+		"eng": "I`m reading a magazine"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 143,
+	"fields": {
+		"rom": "Imi petrec timpul cu prietenii mei",
+		"eng": "I`m spending time with my friends"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 144,
+	"fields": {
+		"rom": "Fac un joc video",
+		"eng": "I`m playing a video game"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 145,
+	"fields": {
+		"rom": "Imi place sa cant la chitara",
+		"eng": "I like to sing guitar"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 146,
+	"fields": {
+		"rom": "Este o zi insorita afara",
+		"eng": "It`s a sunny day outside"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 147,
+	"fields": {
+		"rom": "Discutam despre politica",
+		"eng": "We`re talking about politics"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 148,
+	"fields": {
+		"rom": "Merg la piscina cu prietenii",
+		"eng": "I`m going to the pool with friends"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 149,
+	"fields": {
+		"rom": "Imi place sa imi petrec timpul liber cu animalele mele",
+		"eng": "I like to spend my free time with my pets"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 150,
+	"fields": {
+		"rom": "Curgem biciclete prin oras",
+		"eng": "We`re riding bikes through the city"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 151,
+	"fields": {
+		"rom": "Fac un puzzle",
+		"eng": "I`m doing a puzzle"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 152,
+	"fields": {
+		"rom": "Este o zi rece afara",
+		"eng": "It`s a cold day outside"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 153,
+	"fields": {
+		"rom": "Imi place sa fac yoga",
+		"eng": "I like to do yoga"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 154,
+	"fields": {
+		"rom": "Discutam despre viata personala",
+		"eng": "We`re talking about personal life"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 155,
+	"fields": {
+		"rom": "Merg la cumparaturi cu mama mea",
+		"eng": "I`m going shopping with my mother"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 156,
+	"fields": {
+		"rom": "Citesc o carte pentru copii",
+		"eng": "I`m reading a children`s book"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 157,
+	"fields": {
+		"rom": "Fac curatenie in gradina",
+		"eng": "I`m cleaning the garden"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 158,
+	"fields": {
+		"rom": "Imi place sa fac o plimbare in natura",
+		"eng": "I like to go for a walk in nature"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 159,
+	"fields": {
+		"rom": "Este o zi calda afara",
+		"eng": "It`s a warm day outside"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 160,
+	"fields": {
+		"rom": "Discutam despre vacanta noastra viitoare",
+		"eng": "We`re talking about our future vacation"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 161,
+	"fields": {
+		"rom": "Merg la teatru cu prietenii",
+		"eng": "I`m going to the theater with friends"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 162,
+	"fields": {
+		"rom": "Ce faci in timpul liber?",
+		"eng": "What do you do in your free time?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 163,
+	"fields": {
+		"rom": "Ce activitati ai facut astazi acasa?",
+		"eng": "What activities did you do today at home?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 164,
+	"fields": {
+		"rom": "Ce ai facut astazi afara?",
+		"eng": "What did you do outside today?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 165,
+	"fields": {
+		"rom": "Te place sa faci gradinarit?",
+		"eng": "Do you like gardening?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 166,
+	"fields": {
+		"rom": "Ai creste animale?",
+		"eng": "Do you raise animals?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 167,
+	"fields": {
+		"rom": "Ai animale de companie?",
+		"eng": "Do you have pets?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 168,
+	"fields": {
+		"rom": "Mergi des la piata sau la magazin?",
+		"eng": "Do you often go to the market or store?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 169,
+	"fields": {
+		"rom": "Ce parere ai despre interactiunea dintre oameni?",
+		"eng": "What is your opinion on interaction between people?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 170,
+	"fields": {
+		"rom": "Ce hobby-uri ai?",
+		"eng": "What are your hobbies?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 171,
+	"fields": {
+		"rom": "Ti-e place sa mergi cu bicicleta?",
+		"eng": "Do you like going by bike?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 172,
+	"fields": {
+		"rom": "Cum e vremea astazi?",
+		"eng": "What`s the weather like today?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 173,
+	"fields": {
+		"rom": "Ce ai citit ultima data?",
+		"eng": "What did you read last time?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 174,
+	"fields": {
+		"rom": "Te place sa faci curatenie?",
+		"eng": "Do you like cleaning?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 175,
+	"fields": {
+		"rom": "Ce jocuri te distrezi cel mai mult?",
+		"eng": "What games do you have the most fun with?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 176,
+	"fields": {
+		"rom": "Ce prieteni ai?",
+		"eng": "What friends do you have?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 177,
+	"fields": {
+		"rom": "Ce face familia ta?",
+		"eng": "What is your family doing?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 178,
+	"fields": {
+		"rom": "Ce gatesti cel mai des?",
+		"eng": "What do you cook the most often?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 179,
+	"fields": {
+		"rom": "Ce munca faci?",
+		"eng": "What work do you do?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 180,
+	"fields": {
+		"rom": "Cum te simti astazi?",
+		"eng": "How do you feel today?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 181,
+	"fields": {
+		"rom": "Te place sa calatoresti?",
+		"eng": "Do you like to travel?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 182,
+	"fields": {
+		"rom": "Ce activitati sportive faci?",
+		"eng": "What sports activities do you do?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 183,
+	"fields": {
+		"rom": "Ce filme te-ai uitat ultima data?",
+		"eng": "What movies did you watch last time?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 184,
+	"fields": {
+		"rom": "Ce muzica asculti?",
+		"eng": "What music do you listen to?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 185,
+	"fields": {
+		"rom": "Ce carti recomanzi?",
+		"eng": "What books do you recommend?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 186,
+	"fields": {
+		"rom": "Ce mancaruri preferate ai?",
+		"eng": "What are your favorite foods?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 187,
+	"fields": {
+		"rom": "Ce bauturi preferate ai?",
+		"eng": "What are your favorite drinks?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 188,
+	"fields": {
+		"rom": "Ce sporturi urmaresc cel mai des?",
+		"eng": "What sports do you watch the most often?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 189,
+	"fields": {
+		"rom": "Ce animalut te-ai dori sa ai?",
+		"eng": "What animal would you like to have?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 190,
+	"fields": {
+		"rom": "Ce job ai vrea sa ai?",
+		"eng": "What job would you like to have?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 191,
+	"fields": {
+		"rom": "Ce loc ai vrea sa vizitezi?",
+		"eng": "What place would you like to visit?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 192,
+	"fields": {
+		"rom": "Ce activitati te fac sa te relaxezi?",
+		"eng": "What activities make you relax?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 193,
+	"fields": {
+		"rom": "Ce ai face daca ai castiga la loterie?",
+		"eng": "What would you do if you won the lottery?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 194,
+	"fields": {
+		"rom": "Ce ai face daca ai fi milionar?",
+		"eng": "What would you do if you were a millionaire?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 195,
+	"fields": {
+		"rom": "Ce parere ai despre starea actuala a lumii?",
+		"eng": "What is your opinion on the current state of the world?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 196,
+	"fields": {
+		"rom": "Te joci jocuri video?",
+		"eng": "Do you play video games?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 197,
+	"fields": {
+		"rom": "Ce carte citesti acum?",
+		"eng": "What book are you reading now?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 198,
+	"fields": {
+		"rom": "Ai plantat flori in gradina ta?",
+		"eng": "Have you planted flowers in your garden?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 199,
+	"fields": {
+		"rom": "Ce animale ai in casa?",
+		"eng": "What animals do you have at home?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 200,
+	"fields": {
+		"rom": "Ai mers la pescuit recent?",
+		"eng": "Have you gone fishing recently?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 201,
+	"fields": {
+		"rom": "Ai mers la piata sa cumperi legume proaspete?",
+		"eng": "Have you gone to the market to buy fresh vegetables?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 202,
+	"fields": {
+		"rom": "Cum ai petrecut ziua cu prietenii tai?",
+		"eng": "How did you spend the day with your friends?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 203,
+	"fields": {
+		"rom": "Ai facut o plimbare cu bicicleta azi?",
+		"eng": "Did you go for a bike ride today?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 204,
+	"fields": {
+		"rom": "Care e vremea astazi?",
+		"eng": "What`s the weather like today?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 205,
+	"fields": {
+		"rom": "Ai curatat casa astazi?",
+		"eng": "Did you clean the house today?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 206,
+	"fields": {
+		"rom": "Ce jocuri jucati cu familia ta?",
+		"eng": "What games do you play with your family?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 207,
+	"fields": {
+		"rom": "Ce ai gatit pentru cina astazi?",
+		"eng": "What did you cook for dinner today?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 208,
+	"fields": {
+		"rom": "Cum ti-e starea de spirit astazi?",
+		"eng": "How are you feeling today?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 209,
+	"fields": {
+		"rom": "Ce planuri ai pentru ziua de maine?",
+		"eng": "What are your plans for tomorrow?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 210,
+	"fields": {
+		"rom": "Ai ingrijit animalele tale astazi?",
+		"eng": "Have you taken care of your pets today?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 211,
+	"fields": {
+		"rom": "Ai mers la cumparaturi la magazin astazi?",
+		"eng": "Did you go shopping at the store today?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 212,
+	"fields": {
+		"rom": "Cum te simti cand esti cu prietenii tai?",
+		"eng": "How do you feel when you are with your friends?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 213,
+	"fields": {
+		"rom": "Ai mers la picnic recent?",
+		"eng": "Have you gone on a picnic recently?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 214,
+	"fields": {
+		"rom": "Ce ai facut in weekend-ul trecut?",
+		"eng": "What did you do last weekend?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 215,
+	"fields": {
+		"rom": "Ai jucat table sau sah cu cineva recent?",
+		"eng": "Have you played table or chess with someone recently?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 216,
+	"fields": {
+		"rom": "Ce sporturi te place sa joci?",
+		"eng": "What sports do you like to play?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 217,
+	"fields": {
+		"rom": "Ai mers la plaja recent?",
+		"eng": "Have you gone to the beach recently?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 218,
+	"fields": {
+		"rom": "Ce filme ai vazut in ultimul timp?",
+		"eng": "What movies have you seen lately?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 219,
+	"fields": {
+		"rom": "Ai mers la parc recent?",
+		"eng": "Have you gone to the park recently?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 220,
+	"fields": {
+		"rom": "Ce activitati faci cand esti singur acasa?",
+		"eng": "What activities do you do when you`re alone at home?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 221,
+	"fields": {
+		"rom": "Ai mers la cumparaturi la mall recent?",
+		"eng": "Have you gone shopping at the mall recently?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 222,
+	"fields": {
+		"rom": "Ce te faci pentru a te relaxa?",
+		"eng": "What do you do to relax?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 223,
+	"fields": {
+		"rom": "Ai mers la o expozitie recent?",
+		"eng": "Have you gone to an exhibition recently?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 224,
+	"fields": {
+		"rom": "Ce ai invatat nou astazi?",
+		"eng": "What have you learned today?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 225,
+	"fields": {
+		"rom": "Ai mers la cinema recent?",
+		"eng": "Have you gone to the cinema recently?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 226,
+	"fields": {
+		"rom": "Ce nume ai?",
+		"eng": "What is your name?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 227,
+	"fields": {
+		"rom": "Unde te-ai născut?",
+		"eng": "Where were you born?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 228,
+	"fields": {
+		"rom": "Când te-ai născut?",
+		"eng": "When were you born?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 229,
+	"fields": {
+		"rom": "Ce meserie ai?",
+		"eng": "What is your profession?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 230,
+	"fields": {
+		"rom": "Câți ani ai?",
+		"eng": "How old are you?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 231,
+	"fields": {
+		"rom": "Ce școli ai absolvit?",
+		"eng": "What schools have you attended?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 232,
+	"fields": {
+		"rom": "Ce locuri ai călătorit?",
+		"eng": "What places have you traveled to?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 233,
+	"fields": {
+		"rom": "Ce îți place să faci în timpul liber?",
+		"eng": "What do you like to do in your free time?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 234,
+	"fields": {
+		"rom": "Ce părere ai despre viață?",
+		"eng": "What is your opinion on life?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 235,
+	"fields": {
+		"rom": "Ce credințe religioase ai?",
+		"eng": "What religious beliefs do you have?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 236,
+	"fields": {
+		"rom": "Ce fel de muzică îți place?",
+		"eng": "What kind of music do you like?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 237,
+	"fields": {
+		"rom": "Ce fel de filme îți place?",
+		"eng": "What kind of movies do you like?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 238,
+	"fields": {
+		"rom": "Ce fel de cărți îți place să citești?",
+		"eng": "What kind of books do you like to read?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 239,
+	"fields": {
+		"rom": "Ce fel de alimente îți place să mănânci?",
+		"eng": "What kind of food do you like to eat?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 240,
+	"fields": {
+		"rom": "Ce fel de activități fizice îți place să faci?",
+		"eng": "What kind of physical activities do you like to do?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 241,
+	"fields": {
+		"rom": "Ce locuri te atrag?",
+		"eng": "What places attract you?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 242,
+	"fields": {
+		"rom": "Ce job îți dorești pentru viitor?",
+		"eng": "What job do you want for the future?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 243,
+	"fields": {
+		"rom": "Ce țări vrei să călătorești în viitor?",
+		"eng": "What countries do you want to travel to in the future?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 244,
+	"fields": {
+		"rom": "Ce vrei să faci în viitor?",
+		"eng": "What do you want to do in the future?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 245,
+	"fields": {
+		"rom": "Ce vrei să îmbunătățești despre tine în viitor?",
+		"eng": "What do you want to improve about yourself in the future?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 246,
+	"fields": {
+		"rom": "Ce obiceiuri ai?",
+		"eng": "What are your habits?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 247,
+	"fields": {
+		"rom": "Ce îți place cel mai mult la tine?",
+		"eng": "What do you like the most about yourself?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 248,
+	"fields": {
+		"rom": "Ce îți place cel mai puțin la tine?",
+		"eng": "What do you like the least about yourself?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 249,
+	"fields": {
+		"rom": "Ce calități ai?",
+		"eng": "What are your qualities?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 250,
+	"fields": {
+		"rom": "Ce defecte ai?",
+		"eng": "What are your flaws?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 251,
+	"fields": {
+		"rom": "Ce provocări ai întâmpinat în viață?",
+		"eng": "What challenges have you faced in life?"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 252,
+	"fields": {
+		"rom": "Ce îți place cel mai mult la viață?",
+		"eng": "What do you like the most about life?"
+	}
+}]

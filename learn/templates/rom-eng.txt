@@ -1,0 +1,260 @@
+Ce faci astazi? --- What are you doing today?
+Vreau sa ies in oras. --- I want to go out in town.
+Am terminat munca. --- I finished work.
+Vreau sa vorbesc cu tine. --- I want to talk to you.
+Ma simt obosit. --- I feel tired.
+Vreau sa merg la plaja. --- I want to go to the beach.
+Ce ai facut azi-noapte? --- What did you do last night?
+Vreau sa vad un film. --- I want to watch a movie.
+Ce parere ai despre asta? --- What is your opinion on this?
+Sunt foarte fericit. --- I am very happy.
+Trebuie sa merg la serviciu. --- I have to go to work.
+Vreau sa iau o pauza. --- I want to take a break.
+Ce planuri ai pentru weekend? --- What are your plans for the weekend?
+Ma simt bine. --- I feel good.
+Vreau sa joc un joc video. --- I want to play a video game.
+Ce te face fericit? --- What makes you happy?
+Trebuie sa termin acest proiect. --- I have to finish this project.
+Vreau sa merg la o petrecere. --- I want to go to a party.
+Sunt trist. --- I am sad.
+Vreau sa citesc o carte. --- I want to read a book.
+Ce ai face daca ai avea o zi libera? --- What would you do if you had a day off?
+Ma simt stresat. --- I feel stressed.
+Vreau sa merg la un concert. --- I want to go to a concert.
+Ce te face sa te simti mai bine? --- What makes you feel better?
+Trebuie sa trimit acest email. --- I have to send this email.
+Vreau sa merg la un muzeu. --- I want to go to a museum.
+Sunt fericit sa te vad. --- I am happy to see you.
+Vreau sa iau o cafea. --- I want to have a coffee.
+Ce te face sa te simti rau? --- What makes you feel bad?
+Ma simt confuz. --- I feel confused.
+Vreau sa merg la un parc. --- I want to go to a park.
+Ce te face sa zambesti? --- What makes you smile?
+Trebuie sa termin acest raport. --- I have to finish this report.
+Vreau sa merg la un restaurant. --- I want to go to a restaurant.
+Sunt fericit sa fiu aici. --- I am happy to be here.
+Vreau sa iau o plimbare. --- I want to take a walk.
+Ce te face sa te gandesti la viitor? --- What makes you think about the future?
+Ma simt bine cu tine. --- I feel good with you.
+Ma uit la un film --- I am watching a movie
+Jucam tenis --- We are playing tennis
+Merg la plaja --- I am going to the beach
+Facem o excursie --- We are going on a trip
+Imi petrec timpul cu prietenii --- I am spending time with friends
+Ma joc video-jocuri --- I am playing video games
+Imi fac temele --- I am doing my homework
+Fac cumparaturi --- I am shopping
+Imi place sa gatesc --- I love cooking
+Am o zi obositoare la munca --- I had a tiring day at work
+Ma plimb in parc --- I am walking in the park
+Imi petrec weekend-ul cu familia --- I am spending the weekend with family
+Ma uit la televizor --- I am watching TV
+Jucam fotbal --- We are playing soccer
+Merg la teatru --- I am going to the theater
+Fac yoga --- I am doing yoga
+Imi petrec timpul cu cainii --- I am spending time with dogs
+Ma joc cu copiii --- I am playing with children
+Imi fac planuri pentru vacanta --- I am making plans for vacation
+Fac curatenie in casa --- I am cleaning the house
+Imi place sa creez bijuterii --- I love making jewelry
+Am un interviu de angajare astazi --- I have a job interview today
+Ma plimb prin oras --- I'm walking around the city
+Imi petrec timpul cu iubitul/iubita --- I am spending time with my boyfriend/girlfriend
+Jucam carti --- We are playing cards
+Merg la mare --- I am going to the sea
+Fac sport --- I am doing sports
+Imi petrec timpul cu prietenii la un bar --- I am spending time with friends at a bar
+Ma joc cu telefonul mobil --- I am playing with my cell phone
+Imi fac un masaj --- I am getting a massage
+Fac un gratar --- I am making a barbecue
+Imi place sa citesc --- I love reading
+Am o zi lunga la munca --- I have a long day at work
+Ma plimb prin padure --- I am walking through the forest
+Imi petrec timpul cu nepotii --- I am spending time with my grandchildren
+Jucam baschet --- We are playing basketball
+Merg la opera --- I am going to the opera
+Fac un curs de gatit --- I am taking a cooking class
+Imi petrec timpul cu animalele --- I am spending time with animals
+Ma joc cu niste jucarii --- I am playing with some toys
+Imi fac o salata --- I am making a salad
+Fac voluntariat --- I am volunteering
+Imi place sa calatoresc --- I love traveling
+Am o intalnire de afaceri --- I have a business meeting
+Ma plimb pe malul lacului --- I am walking by the lake
+Suntem la picnic --- We are at the picnic
+Vreau sa merg la plimbare cu bicicleta --- I want to go for a bike ride
+Vremea este frumoasa azi --- The weather is nice today
+Citesc o carte interesanta --- I am reading an interesting book
+Ma duc sa fac curat in casa --- I am going to clean the house
+Jucam un joc video --- We are playing a video game
+Imi petrec timpul liber cu prietenii --- I spend my free time with friends
+Suntem o familie unita --- We are a united family
+Gatim cina impreuna --- We cook dinner together
+Muncesc la birou --- I work at the office
+Ma simt bine astazi --- I feel good today
+Ma duc sa joc tenis --- I am going to play tennis
+Vreau sa fac o plimbare cu rolele --- I want to go for a rollerblade ride
+Vremea este ploioasa astazi --- The weather is rainy today
+Citesc un roman --- I am reading a novel
+Ma duc sa fac curat in gradina --- I am going to clean the garden
+Jucam o partida de sah --- We are playing a game of chess
+Imi petrec timpul liber cu familia --- I spend my free time with family
+Gatim o prajitura --- We are baking a cake
+Muncesc acasa --- I work from home
+Ma simt trist astazi --- I feel sad today
+Ma duc la pescuit --- I am going fishing
+Vreau sa merg la o plimbare cu patinele --- I want to go for a skate ride
+Vremea este calda astazi --- The weather is warm today
+Citesc o biografie --- I am reading a biography
+Ma duc sa fac curat in baie --- I am going to clean the bathroom
+Jucam un joc de societate --- We are playing a board game
+Imi petrec timpul liber la cinema --- I spend my free time at the cinema
+Gatim o pizza --- We are cooking pizza
+Muncesc la proiect --- I work on a project
+Ma simt energic astazi --- I feel energetic today
+Ma duc sa joc baschet --- I am going to play basketball
+Vreau sa merg la plimbare cu cainii --- I want to go for a walk with the dogs
+Vremea este rece astazi --- The weather is cold today
+Citesc o poezie --- I am reading a poem
+Ma duc sa fac curat in camera --- I am going to clean the room
+Jucam un joc de strategie --- We are playing a strategy game
+Imi petrec timpul liber la parc --- I spend my free time at the park
+Gatim o ciorba --- We are cooking soup
+Muncesc la teren --- I work on site
+Ma simt relaxat astazi --- I feel relaxed today
+Ma duc sa joc fotbal --- I am going to play soccer
+Ma uit la televizor --- I'm watching TV
+Merg la piata sa cumpar legume --- I'm going to the market to buy vegetables
+Vorbeste cu prietenul tau --- Talk to your friend
+Imi place sa citesc carti --- I like to read books
+Este o zi frumoasa afara --- It's a beautiful day outside
+Fac curatenie in casa --- I'm cleaning the house
+Jucam joc de societate --- We're playing a board game
+Merg la magazin sa cumpar paine --- I'm going to the store to buy bread
+Imi petrec timpul cu familia mea --- I'm spending time with my family
+Fac un picnic cu prietenii --- I'm having a picnic with friends
+Curgem biciclete prin parc --- We're riding bikes in the park
+Este un vant puternic afara --- It's a strong wind outside
+Gatim cina impreuna --- We're cooking dinner together
+Imi place sa pictez --- I like to paint
+Merg la munca --- I'm going to work
+Discutam despre planurile pentru weekend --- We're talking about plans for the weekend
+Imi place sa fac sport --- I like to do sports
+Fac o plimbare prin parc --- I'm taking a walk in the park
+Este o zi ploioasa afara --- It's a rainy day outside
+Citesc o revista --- I'm reading a magazine
+Imi petrec timpul cu prietenii mei --- I'm spending time with my friends
+Fac un joc video --- I'm playing a video game
+Imi place sa cant la chitara --- I like to sing guitar
+Este o zi insorita afara --- It's a sunny day outside
+Discutam despre politica --- We're talking about politics
+Merg la piscina cu prietenii --- I'm going to the pool with friends
+Imi place sa imi petrec timpul liber cu animalele mele --- I like to spend my free time with my pets
+Curgem biciclete prin oras --- We're riding bikes through the city
+Fac un puzzle --- I'm doing a puzzle
+Este o zi rece afara --- It's a cold day outside
+Imi place sa fac yoga --- I like to do yoga
+Discutam despre viata personala --- We're talking about personal life
+Merg la cumparaturi cu mama mea --- I'm going shopping with my mother
+Citesc o carte pentru copii --- I'm reading a children's book
+Fac curatenie in gradina --- I'm cleaning the garden
+Imi place sa fac o plimbare in natura --- I like to go for a walk in nature
+Este o zi calda afara --- It's a warm day outside
+Discutam despre vacanta noastra viitoare --- We're talking about our future vacation
+Merg la teatru cu prietenii --- I'm going to the theater with friends
+Ce faci in timpul liber? --- What do you do in your free time?
+Ce activitati ai facut astazi acasa? --- What activities did you do today at home?
+Ce ai facut astazi afara? --- What did you do today outside?
+Te place sa faci gradinarit? --- Do you like gardening?
+Ai creste animale? --- Do you raise animals?
+Ai animale de companie? --- Do you have pets?
+Mergi des la piata sau la magazin? --- Do you often go to the market or store?
+Ce parere ai despre interactiunea dintre oameni? --- What is your opinion on interaction between people?
+Ce hobby-uri ai? --- What hobbies do you have?
+Ti-e place sa mergi cu bicicleta? --- Do you like going by bike?
+Cum e vremea astazi? --- What's the weather like today?
+Ce ai citit ultima data? --- What did you read last time?
+Te place sa faci curatenie? --- Do you like cleaning?
+Ce jocuri te distrezi cel mai mult? --- What games do you have the most fun with?
+Ce prieteni ai? --- What friends do you have?
+Ce face familia ta? --- What is your family doing?
+Ce gatesti cel mai des? --- What do you cook the most often?
+Ce munca faci? --- What work do you do?
+Cum te simti astazi? --- How do you feel today?
+Ce planuri ai pentru weekend? --- What are your plans for the weekend?
+Te place sa calatoresti? --- Do you like to travel?
+Ce activitati sportive faci? --- What sports activities do you do?
+Ce filme te-ai uitat ultima data? --- What movies did you watch last time?
+Ce muzica asculti? --- What music do you listen to?
+Ce carti recomanzi? --- What books do you recommend?
+Ce mancaruri preferate ai? --- What are your favorite foods?
+Ce bauturi preferate ai? --- What are your favorite drinks?
+Ce sporturi urmaresc cel mai des? --- What sports do you watch the most often?
+Ce animalut te-ai dori sa ai? --- What animal would you like to have?
+Ce job ai vrea sa ai? --- What job would you like to have?
+Ce loc ai vrea sa vizitezi? --- What place would you like to visit?
+Ce activitati te fac sa te relaxezi? --- What activities make you relax?
+Ce ai face daca ai castiga la loterie? --- What would you do if you won the lottery?
+Ce ai face daca ai fi milionar? --- What would you do if you were a millionaire?
+Ce parere ai despre starea actuala a lumii? --- What is your opinion on the current state of the world?
+Ce planuri ai pentru weekend? --- What are your plans for the weekend?
+Te joci jocuri video? --- Do you play video games?
+Ce carte citesti acum? --- What book are you reading now?
+Ai plantat flori in gradina ta? --- Have you planted flowers in your garden?
+Ce animale ai in casa? --- What animals do you have at home?
+Ai mers la pescuit recent? --- Have you gone fishing recently?
+Ce ai facut astazi afara? --- What did you do outside today?
+Ai mers la piata sa cumperi legume proaspete? --- Have you gone to the market to buy fresh vegetables?
+Cum ai petrecut ziua cu prietenii tai? --- How did you spend the day with your friends?
+Ce hobby-uri ai? --- What hobbies do you have?
+Ai facut o plimbare cu bicicleta azi? --- Did you go for a bike ride today?
+Care e vremea astazi? --- What's the weather like today?
+Ai curatat casa astazi? --- Did you clean the house today?
+Ce jocuri jucati cu familia ta? --- What games do you play with your family?
+Ce ai gatit pentru cina astazi? --- What did you cook for dinner today?
+Cum ti-e starea de spirit astazi? --- How are you feeling today?
+Ce planuri ai pentru ziua de maine? --- What are your plans for tomorrow?
+Ai ingrijit animalele tale astazi? --- Have you taken care of your pets today?
+Ai mers la cumparaturi la magazin astazi? --- Did you go shopping at the store today?
+Cum te simti cand esti cu prietenii tai? --- How do you feel when you are with your friends?
+Ai mers la picnic recent? --- Have you gone on a picnic recently?
+Ce ai facut in weekend-ul trecut? --- What did you do last weekend?
+Ai jucat table sau sah cu cineva recent? --- Have you played table or chess with someone recently?
+Ce sporturi te place sa joci? --- What sports do you like to play?
+Ai mers la plaja recent? --- Have you gone to the beach recently?
+Ce filme ai vazut in ultimul timp? --- What movies have you seen lately?
+Ai mers la parc recent? --- Have you gone to the park recently?
+Ce activitati faci cand esti singur acasa? --- What activities do you do when you're alone at home?
+Ai mers la cumparaturi la mall recent? --- Have you gone shopping at the mall recently?
+Ce te faci pentru a te relaxa? --- What do you do to relax?
+Ai mers la o expozitie recent? --- Have you gone to an exhibition recently?
+Ce ai invatat nou astazi? --- What have you learned today?
+Ai mers la cinema recent? --- Have you gone to the cinema recently?
+Ce nume ai? --- What is your name?
+Unde te-ai născut? --- Where were you born?
+Când te-ai născut? --- When were you born?
+Ce meserie ai? --- What is your profession?
+Câți ani ai? --- How old are you?
+Ce școli ai absolvit? --- What schools have you attended?
+Ce locuri ai călătorit? --- What places have you traveled to?
+Ce îți place să faci în timpul liber? --- What do you like to do in your free time?
+Ce hobby-uri ai? --- What are your hobbies?
+Ce părere ai despre viață? --- What is your opinion on life?
+Ce credințe religioase ai? --- What religious beliefs do you have?
+Ce fel de muzică îți place? --- What kind of music do you like?
+Ce fel de filme îți place? --- What kind of movies do you like?
+Ce fel de cărți îți place să citești? --- What kind of books do you like to read?
+Ce fel de alimente îți place să mănânci? --- What kind of food do you like to eat?
+Ce fel de activități fizice îți place să faci? --- What kind of physical activities do you like to do?
+Ce locuri te atrag? --- What places attract you?
+Ce job îți dorești pentru viitor? --- What job do you want for the future?
+Ce țări vrei să călătorești în viitor? --- What countries do you want to travel to in the future?
+Ce vrei să faci în viitor? --- What do you want to do in the future?
+Ce vrei să îmbunătățești despre tine în viitor? --- What do you want to improve about yourself in the future?
+Ce obiceiuri ai? --- What are your habits?
+Ce îți place cel mai mult la tine? --- What do you like the most about yourself?
+Ce îți place cel mai puțin la tine? --- What do you like the least about yourself?
+Ce calități ai? --- What are your qualities?
+Ce defecte ai? --- What are your flaws?
+Ce provocări ai întâmpinat în viață? --- What challenges have you faced in life?
+Ce îți place cel mai mult la viață? --- What do you like the most about life?
