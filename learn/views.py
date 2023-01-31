@@ -1,5 +1,6 @@
 from django.views.generic import TemplateView, ListView
-
+from django.shortcuts import render
+import openai
 from learn.models import Expression
 
 
@@ -15,4 +16,8 @@ class ExpressionListView(ListView):
         qs = super(ExpressionListView, self).get_queryset()
         qs = qs.order_by("?")
         return qs
+
+
+
+
 

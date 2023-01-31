@@ -1762,4 +1762,571 @@
 		"rom": "Ce îți place cel mai mult la viață?",
 		"eng": "What do you like the most about life?"
 	}
+}, {
+	"model": "learn.Expression",
+	"pk": 253,
+	"fields": {
+		"rom": "Am mers la magazin",
+		"eng": "I went to the store"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 254,
+	"fields": {
+		"rom": "Merg la mare in vacanta",
+		"eng": "I am going to the beach on vacation"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 255,
+	"fields": {
+		"rom": "Am cumparat o prajitura",
+		"eng": "I bought a cake"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 256,
+	"fields": {
+		"rom": "Cumpar o rochie",
+		"eng": "I am buying a dress"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 257,
+	"fields": {
+		"rom": "Am citit o carte ieri",
+		"eng": "I read a book yesterday"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 258,
+	"fields": {
+		"rom": "Citesc o carte acum",
+		"eng": "I am reading a book now"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 259,
+	"fields": {
+		"rom": "Voi citi o carte maine",
+		"eng": "I will read a book tomorrow"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 260,
+	"fields": {
+		"rom": "Am facut o reteta",
+		"eng": "I made a recipe"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 261,
+	"fields": {
+		"rom": "Fac o reteta acum",
+		"eng": "I am making a recipe now"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 262,
+	"fields": {
+		"rom": "Voi face o reteta mâine",
+		"eng": "I will make a recipe tomorrow"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 263,
+	"fields": {
+		"rom": "Am vazut un film",
+		"eng": "I saw a movie"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 264,
+	"fields": {
+		"rom": "Vizionez un film acum",
+		"eng": "I am watching a movie now"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 265,
+	"fields": {
+		"rom": "Voi viziona un film maine",
+		"eng": "I will watch a movie tomorrow"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 266,
+	"fields": {
+		"rom": "Am mancat pizza",
+		"eng": "I ate pizza"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 267,
+	"fields": {
+		"rom": "Mănânc un sandviș acum",
+		"eng": "I am eating a sandwich now"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 268,
+	"fields": {
+		"rom": "Voi mânca un sandviș mâine",
+		"eng": "I will eat a sandwich tomorrow"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 269,
+	"fields": {
+		"rom": "Am baut un suc",
+		"eng": "I drank a juice"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 270,
+	"fields": {
+		"rom": "Beau un suc acum",
+		"eng": "I am drinking a juice now"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 271,
+	"fields": {
+		"rom": "Voi bea un suc maine",
+		"eng": "I will drink a juice tomorrow"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 272,
+	"fields": {
+		"rom": "Am auzit o melodie",
+		"eng": "I heard a song"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 273,
+	"fields": {
+		"rom": "Ascult o melodie acum",
+		"eng": "I am listening to a song now"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 274,
+	"fields": {
+		"rom": "Voi asculta o melodie mâine",
+		"eng": "I will listen to a song tomorrow"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 275,
+	"fields": {
+		"rom": "Am scris o scrisoare",
+		"eng": "I wrote a letter"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 276,
+	"fields": {
+		"rom": "Scriu o scrisoare acum",
+		"eng": "I am writing a letter now"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 277,
+	"fields": {
+		"rom": "Voi scrie o scrisoare mâine",
+		"eng": "I will write a letter tomorrow"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 278,
+	"fields": {
+		"rom": "Am cântat la chitară",
+		"eng": "I sang with the guitar"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 279,
+	"fields": {
+		"rom": "Cânt la chitară acum",
+		"eng": "I am singing with the guitar now"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 280,
+	"fields": {
+		"rom": "Voi cânta la chitară mâine",
+		"eng": "I will sing with the guitar tomorrow"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 281,
+	"fields": {
+		"rom": "Am dansat salsa",
+		"eng": "I danced salsa"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 282,
+	"fields": {
+		"rom": "Dansez salsa acum",
+		"eng": "I am dancing salsa now"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 283,
+	"fields": {
+		"rom": "Voi dansa salsa mâine",
+		"eng": "I will dance salsa tomorrow"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 284,
+	"fields": {
+		"rom": "Am jucat tenis",
+		"eng": "I played tennis"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 285,
+	"fields": {
+		"rom": "Joc tenis acum",
+		"eng": "I am playing tennis now"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 286,
+	"fields": {
+		"rom": "Voi juca tenis mâine",
+		"eng": "I will play tennis tomorrow"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 287,
+	"fields": {
+		"rom": "Am făcut o plimbare",
+		"eng": "I took a walk"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 288,
+	"fields": {
+		"rom": "Fac o plimbare acum",
+		"eng": "I am taking a walk now"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 289,
+	"fields": {
+		"rom": "Voi face o plimbare mâine",
+		"eng": "I will take a walk tomorrow"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 290,
+	"fields": {
+		"rom": "Am luat un autobuz",
+		"eng": "I took a bus"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 291,
+	"fields": {
+		"rom": "Iau un autobuz acum",
+		"eng": "I am taking a bus now"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 292,
+	"fields": {
+		"rom": "Voi lua un autobuz mâine",
+		"eng": "I will take a bus tomorrow"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 293,
+	"fields": {
+		"rom": "Am facut un telefon",
+		"eng": "I made a phone call"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 294,
+	"fields": {
+		"rom": "Fac un telefon acum",
+		"eng": "I am making a phone call now"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 295,
+	"fields": {
+		"rom": "Voi face un telefon mâine",
+		"eng": "I will make a phone call tomorrow"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 296,
+	"fields": {
+		"rom": "Am studiat",
+		"eng": "I studied"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 297,
+	"fields": {
+		"rom": "Eu cânt",
+		"eng": "I sing"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 298,
+	"fields": {
+		"rom": "El va merge la plimbare",
+		"eng": "He will go for a walk"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 299,
+	"fields": {
+		"rom": "Tu ai vorbit cu prietenul tău",
+		"eng": "You spoke to your friend"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 300,
+	"fields": {
+		"rom": "Noi am cumpărat fructe",
+		"eng": "We bought fruits"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 301,
+	"fields": {
+		"rom": "Ei vor juca fotbal",
+		"eng": "They will play soccer"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 302,
+	"fields": {
+		"rom": "Tu ai făcut temele",
+		"eng": "You did your homework"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 303,
+	"fields": {
+		"rom": "Eu am mers la munte",
+		"eng": "I went to the mountain"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 304,
+	"fields": {
+		"rom": "El va fi acasă mâine",
+		"eng": "He will be home tomorrow"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 305,
+	"fields": {
+		"rom": "Noi am vizitat muzeul",
+		"eng": "We visited the museum"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 306,
+	"fields": {
+		"rom": "Tu ai citit această carte",
+		"eng": "You read this book"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 307,
+	"fields": {
+		"rom": "Ei vor înota în piscină",
+		"eng": "They will swim in the pool"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 308,
+	"fields": {
+		"rom": "Eu am mers la cumpărături",
+		"eng": "I went shopping"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 309,
+	"fields": {
+		"rom": "El a mers la serviciu",
+		"eng": "He went to work"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 310,
+	"fields": {
+		"rom": "Noi am mers la film",
+		"eng": "We went to the movie"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 311,
+	"fields": {
+		"rom": "Tu ai mers la bibliotecă",
+		"eng": "You went to the library"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 312,
+	"fields": {
+		"rom": "Ei vor călători în străinătate",
+		"eng": "They will travel abroad"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 313,
+	"fields": {
+		"rom": "Eu am mers la teatru",
+		"eng": "I went to the theater"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 314,
+	"fields": {
+		"rom": "El a făcut o plimbare în parc",
+		"eng": "He took a walk in the park"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 315,
+	"fields": {
+		"rom": "Noi am făcut un picnic în parc",
+		"eng": "We had a picnic in the park"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 316,
+	"fields": {
+		"rom": "Tu ai mers la petrecere",
+		"eng": "You went to the party"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 317,
+	"fields": {
+		"rom": "Ei vor merge la grădina zoologică",
+		"eng": "They will go to the zoo"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 318,
+	"fields": {
+		"rom": "Eu am mers la piață",
+		"eng": "I went to the market"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 319,
+	"fields": {
+		"rom": "El a mers la mare",
+		"eng": "He went to the sea"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 320,
+	"fields": {
+		"rom": "Noi am mers la schi",
+		"eng": "We went skiing"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 321,
+	"fields": {
+		"rom": "Tu ai mers la restaurant",
+		"eng": "You went to the restaurant"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 322,
+	"fields": {
+		"rom": "Ei vor merge la concert",
+		"eng": "They will go to the concert"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 323,
+	"fields": {
+		"rom": "Eu am mers la parc acvatic",
+		"eng": "I went to the water park"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 324,
+	"fields": {
+		"rom": "El a mers la cumpărături cu prietenul său",
+		"eng": "He went shopping with his friend"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 325,
+	"fields": {
+		"rom": "Noi am mers la film cu familia",
+		"eng": "We went to the movie with family"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 326,
+	"fields": {
+		"rom": "Tu ai mers la sală de sport",
+		"eng": "You went to the gym"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 327,
+	"fields": {
+		"rom": "Ei vor merge la acvariu",
+		"eng": "They will go to the aquarium"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 328,
+	"fields": {
+		"rom": "Eu am mers la expoziție",
+		"eng": "I went to the exhibition"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 329,
+	"fields": {
+		"rom": "El a mers la plajă",
+		"eng": "He went to the beach"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 330,
+	"fields": {
+		"rom": "Noi am mers la picnic în parc",
+		"eng": "We went for a picnic in the park"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 331,
+	"fields": {
+		"rom": "Tu ai mers la aeroport",
+		"eng": "You went to the airport"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 332,
+	"fields": {
+		"rom": "Ei vor merge la camping",
+		"eng": "They will go camping"
+	}
+}, {
+	"model": "learn.Expression",
+	"pk": 333,
+	"fields": {
+		"rom": "Eu am mers la călătorie cu prietenii mei",
+		"eng": "I went on a trip with my friends"
+	}
 }]

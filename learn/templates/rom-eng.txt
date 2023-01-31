@@ -258,3 +258,84 @@ Ce calități ai? --- What are your qualities?
 Ce defecte ai? --- What are your flaws?
 Ce provocări ai întâmpinat în viață? --- What challenges have you faced in life?
 Ce îți place cel mai mult la viață? --- What do you like the most about life?
+Am mers la magazin --- I went to the store
+Merg la mare in vacanta --- I am going to the beach on vacation
+Am cumparat o prajitura --- I bought a cake
+Cumpar o rochie --- I am buying a dress
+Am citit o carte ieri --- I read a book yesterday
+Citesc o carte acum --- I am reading a book now
+Voi citi o carte maine --- I will read a book tomorrow
+Am facut o reteta --- I made a recipe
+Fac o reteta acum --- I am making a recipe now
+Voi face o reteta mâine --- I will make a recipe tomorrow
+Am vazut un film --- I saw a movie
+Vizionez un film acum --- I am watching a movie now
+Voi viziona un film maine --- I will watch a movie tomorrow
+Am mancat pizza --- I ate pizza
+Mănânc un sandviș acum --- I am eating a sandwich now
+Voi mânca un sandviș mâine --- I will eat a sandwich tomorrow
+Am baut un suc --- I drank a juice
+Beau un suc acum --- I am drinking a juice now
+Voi bea un suc maine --- I will drink a juice tomorrow
+Am auzit o melodie --- I heard a song
+Ascult o melodie acum --- I am listening to a song now
+Voi asculta o melodie mâine --- I will listen to a song tomorrow
+Am scris o scrisoare --- I wrote a letter
+Scriu o scrisoare acum --- I am writing a letter now
+Voi scrie o scrisoare mâine --- I will write a letter tomorrow
+Am cântat la chitară --- I sang with the guitar
+Cânt la chitară acum --- I am singing with the guitar now
+Voi cânta la chitară mâine --- I will sing with the guitar tomorrow
+Am dansat salsa --- I danced salsa
+Dansez salsa acum --- I am dancing salsa now
+Voi dansa salsa mâine --- I will dance salsa tomorrow
+Am jucat tenis --- I played tennis
+Joc tenis acum --- I am playing tennis now
+Voi juca tenis mâine --- I will play tennis tomorrow
+Am făcut o plimbare --- I took a walk
+Fac o plimbare acum --- I am taking a walk now
+Voi face o plimbare mâine --- I will take a walk tomorrow
+Am luat un autobuz --- I took a bus
+Iau un autobuz acum --- I am taking a bus now
+Voi lua un autobuz mâine --- I will take a bus tomorrow
+Am facut un telefon --- I made a phone call
+Fac un telefon acum --- I am making a phone call now
+Voi face un telefon mâine --- I will make a phone call tomorrow
+Am studiat --- I studied
+Eu cânt --- I sing
+El va merge la plimbare --- He will go for a walk
+Tu ai vorbit cu prietenul tău --- You spoke to your friend
+Noi am cumpărat fructe --- We bought fruits
+Ei vor juca fotbal --- They will play soccer
+Tu ai făcut temele --- You did your homework
+Eu am mers la munte --- I went to the mountain
+El va fi acasă mâine --- He will be home tomorrow
+Noi am vizitat muzeul --- We visited the museum
+Tu ai citit această carte --- You read this book
+Ei vor înota în piscină --- They will swim in the pool
+Eu am mers la cumpărături --- I went shopping
+El a mers la serviciu --- He went to work
+Noi am mers la film --- We went to the movie
+Tu ai mers la bibliotecă --- You went to the library
+Ei vor călători în străinătate --- They will travel abroad
+Eu am mers la teatru --- I went to the theater
+El a făcut o plimbare în parc --- He took a walk in the park
+Noi am făcut un picnic în parc --- We had a picnic in the park
+Tu ai mers la petrecere --- You went to the party
+Ei vor merge la grădina zoologică --- They will go to the zoo
+Eu am mers la piață --- I went to the market
+El a mers la mare --- He went to the sea
+Noi am mers la schi --- We went skiing
+Tu ai mers la restaurant --- You went to the restaurant
+Ei vor merge la concert --- They will go to the concert
+Eu am mers la parc acvatic --- I went to the water park
+El a mers la cumpărături cu prietenul său --- He went shopping with his friend
+Noi am mers la film cu familia --- We went to the movie with family
+Tu ai mers la sală de sport --- You went to the gym
+Ei vor merge la acvariu --- They will go to the aquarium
+Eu am mers la expoziție --- I went to the exhibition
+El a mers la plajă --- He went to the beach
+Noi am mers la picnic în parc --- We went for a picnic in the park
+Tu ai mers la aeroport --- You went to the airport
+Ei vor merge la camping --- They will go camping
+Eu am mers la călătorie cu prietenii mei --- I went on a trip with my friends

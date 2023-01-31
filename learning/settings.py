@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount.providers.github',
     'users.apps.UsersConfig',
     'learn.apps.LearnConfig',
+    'newlearn.apps.NewlearnConfig',
 ]
 
 MIDDLEWARE = [
