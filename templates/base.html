@@ -24,8 +24,8 @@
 <body>
 <div class="container pb-5 mb-5">
     <nav class="navbar navbar-expand-lg bg-light shadow fixed-top">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="{% url 'index' %}">ChatBot</a>
+  <div class="container">
+    <a class="navbar-brand" href="{% url 'index' %}">ProGres</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -35,7 +35,7 @@
           <a class="nav-link active" aria-current="page" href="{% url 'try' %}">Try for free</a>
          </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="{% url 'newlearn' %}">Advanced module</a>
+          <a class="nav-link active" aria-current="page" href=""></a>
         </li>
           {% if request.user.is_authenticated %}
               <li class="nav-item">
@@ -48,6 +48,10 @@
         <li class="nav-item">
             <a class="nav-link text-info" href="{% url 'account_login' %}">Login</a>
         </li>
+              <li class="nav-item">
+            <a class="nav-link text-info" href="{% url 'account_signup' %}">Sign up</a>
+        </li>
+
           {% endif %}
       </ul>
     </div>

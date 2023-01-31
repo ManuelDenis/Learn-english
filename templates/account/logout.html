@@ -1,11 +1,15 @@
-{% extends "account/base.html" %}
-
+{% extends "base.html" %}
+{% load crispy_forms_filters %}
+{% load crispy_forms_tags %}
 {% load i18n %}
 
 {% block head_title %}{% trans "Sign Out" %}{% endblock %}
 
 {% block content %}
-<h1>{% trans "Sign Out" %}</h1>
+    <div class="container py-5">
+    <div class="row justify-content-md-center">
+        <div class="col-lg-6">
+            <h1>{% trans "Sign Out" %}</h1>
 
 <p>{% trans 'Are you sure you want to sign out?' %}</p>
 
@@ -16,6 +20,10 @@
   {% endif %}
   <button type="submit">{% trans 'Sign Out' %}</button>
 </form>
+
+        </div>
+    </div>
+    </div>
 
 
 {% endblock %}
