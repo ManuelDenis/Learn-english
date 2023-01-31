@@ -4,12 +4,12 @@
 <div class="container">
 <div class="row">
 <div class="col-lg-6 p-3 py-5">
-    <h1>Care este intrebarea ta?</h1>
+    <h3>Your question is...</h3>
 <form method="POST">
 {% csrf_token %}
 <label></label>
 <input type="text" class="form-control" name="user_input" />
-<button class="shadow" type="submit">Send</button>
+<button class="shadow my-3" type="submit">Get the answer</button>
 </form>
 
 {% if response %}
