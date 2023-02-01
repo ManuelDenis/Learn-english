@@ -1,9 +1,21 @@
 {% extends 'base.html' %}
+{% load crispy_forms_filters %}
+{% load i18n %}
+{% load crispy_forms_tags %}
 
 {% block content %}
     <div class="container">
     <div class="row">
-        <div class="col-lg-6 text-secondary">
+
+    <div class="row p-4">
+             {% if messages %}
+        {% for message in messages %}
+            <h3 id="message">{{ message }}</h3>
+        {% endfor %}
+             {% endif %}
+    </div>
+
+        <div class="col-lg-6 text-secondary p-4">
             <h1>Buna!</h1>
     <h4>Bine ai venit, iti oferim un modul foarte usor de utilizat si placut pentru invatarea limbii engleze in mod nativ
         ,il poti accesa chiar acum. Totul este gratuit!</h4>
@@ -21,8 +33,25 @@
                 Frazele (romana si engleza) sunt generate cu ajutorul unui modul de inteligenta artificiala, in curand vei putea accesa si alte module de nivel mai avansat!
             Te incurajam sa ne scrii mai jos, in formularul de contact, parerea ta, iti multumim!</p>
         </div>
+        <div class="col-lg-6">
+
+        </div>
+        <div class="col-lg-6 p-4">
+            <form method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{ form|crispy }}
+                <input type="submit" value="Trimite" class="btn btn-info">
+            </form>
+        </div>
     </div>
     </div>
 
+<script>
+$(document).ready(function() {
+  setTimeout(function() {
+    $("#message").hide();
+  }, 3000);
+});
 
+</script>
 {% endblock content %}
